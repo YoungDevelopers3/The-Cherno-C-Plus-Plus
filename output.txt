@@ -1,0 +1,4 @@
+The value is 8
+The address of this variable in the memory is 0x16b4a6f6c
+The address of the variable after changing the value is 0x16b4a6f6c
+So the memory address does not changes with the change in its value
