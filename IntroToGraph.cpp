@@ -14,8 +14,8 @@ public:
 
     void addEdge(int u, int v)
     {
-        l[u].push_back(u);
-        l[v].push_back(v);
+        l[u].push_back(v);
+        l[v].push_back(u);
     }
 
     void printAdjList()
